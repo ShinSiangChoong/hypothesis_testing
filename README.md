@@ -5,8 +5,9 @@ Python codes templates for various Statistical Hypothesis Testing. This repo inc
 Parametric tests:
 1. *t*-test
 2. *Z*-Test
-3. Chi-Square test
-4. ANOVA and post-hoc tests
+3. Fisher's Exact Test
+4. Chi-Square test
+5. ANOVA and post-hoc tests
 
 Non-parametric tests:
 1. Sign Test
