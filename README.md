@@ -1,6 +1,6 @@
 Statistical Hypothesis Testing
 ==============================
-Python codes templates for various Statistical Hypothesis Testing. This repo includes various parametric and non-parametric statistical tests. The very high level theoretical assumptions and rationale of the tests are stated inconsistently in the notebooks.
+Python codes templates for various Hypothesis Testings. This repo includes various parametric and non-parametric statistical tests. The very high level theoretical assumptions and rationale of the tests are stated inconsistently in the notebooks.
 
 Parametric tests:
 1. *t*-test
